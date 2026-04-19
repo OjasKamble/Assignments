@@ -1,0 +1,80 @@
+//Temperature of a city in degrees Celsius: 25.5
+let Temperature: number = 25.5
+console.log(`Temperature of a city in degrees Celsius: ${Temperature} °C`)
+
+//Whether a customer has placed an order: true or false
+let order: boolean = true 
+console.log(`Whether a customer has placed an order: ${order}`)
+
+//Person's phone number: "123-456-7890"
+let phnumber: string = '123-456-7890'
+console.log(`Person's phone number: ${phnumber}`)
+
+//Amount of money in a customer's bank account: 1000.50
+let balance: number = 1000.50
+console.log(`Amount of money in a customer's bank account is: ${balance}`)
+
+//Person's email address: "john.doe@example.com"
+let email: string = "john.doe@example.com"
+console.log(`Person's email address: ${email}`)
+
+//Coordinates of a location (latitude, longitude): 37.7749, -122.4194
+let clocation: number[] = [37.7749, -122.4194]
+console.log(`Coordinates of a location (latitude, longitude): ${clocation}`)
+
+//Person's marital status: true or false
+let mstatus: boolean = false
+console.log(`Person's marital status: ${mstatus}`)
+
+//Person's occupation: "Software Engineer"
+let occupation: string = "Software Engineer"
+console.log(`Person's occupation: ${occupation}`)
+
+//Person's favourite colour: "Blue"
+let colour: string = "Blue"
+console.log(`Person's favourite colour: ${colour}`)
+
+//Current year: 2023
+let year: number = 2023
+console.log(`Current year: ${year}`)
+
+//Number of followers on a social media platform: 1,000,000
+let followers: string = '1,000,000'
+console.log(`Number of followers on a social media platform: ${followers}`)
+
+//Rating of a movie: 7.5
+let rating: number = 7.5
+console.log(`Rating of a movie: ${rating}`)
+
+//Person's blood type: 'A'
+let btype: string = 'A'
+console.log(`Person's blood type: ${btype}`)
+
+//Title of a book: "To Kill a Mockingbird"
+let title: string = 'To Kill a Mockingbird'
+console.log(`Title of a book: ${title}`)
+
+//Number of employees in a company: 500
+let employees: number = 500
+console.log(`Number of employees in a company: ${employees}`)
+
+//Time of an event: 2:30 PM
+let time: string = '2:30 PM'
+console.log(`Time of an event: ${time}`)
+
+//Name of a country: "United States"
+let country: string = "United States"
+console.log(`Name of a country: ${country}`)
+
+//Person's eye color: "Brown"
+let eyecolor: string = "Brown"
+console.log(`Person's eye color: ${eyecolor}`)
+
+//Person's birthplace: "New York City"
+let birthplace: string = "New York City"
+console.log(`Person's birthplace: ${birthplace}`)
+
+//Distance between two cities: 200.5
+let distance: number = 200.5
+console.log(`Distance between two cities: ${distance}`)
+
